@@ -1,5 +1,5 @@
 ### Hi 👋
-- 🎓 I am a CSE UG student! 
+- 🎓 I am a CS grad student! 
 - 🌱 I’m currently learning Computer Vision and Deep Learning techniques.
 - 🤝 I’m looking to collaborate on data science and machine learning projects. 
 - ❤️ Huge naruto fan!(Dattebayo!)
